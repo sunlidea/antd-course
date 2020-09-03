@@ -1,0 +1,26 @@
+{
+  "name": "antd-course",
+  "version": "1.0.0",
+  "description": "The learning project for the [ant design course](https://antd-course.ulivz.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunlidea/antd-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunlidea/antd-course/issues"
+  },
+  "homepage": "https://github.com/sunlidea/antd-course#readme",
+  "devDependencies": {
+    "umi": "^2.13.3",
+    "umi-plugin-react": "^1.15.8"
+  }
+}
