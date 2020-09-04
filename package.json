@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/sunlidea/antd-course#readme",
   "devDependencies": {
+    "@ant-design/compatible": "^1.0.5",
+    "@antv/g2": "^3.5.7",
     "umi": "^2.13.3",
     "umi-plugin-react": "^1.15.8"
   },
